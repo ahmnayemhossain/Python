@@ -60,7 +60,7 @@ TODO: Commit and push to GitHub
 ! =========================================================
 ```
 
-### Day 001 — Practice
+### Day 01 — Practice
 
 **Topic:** Setup, print, comments, terminal basics  
 **Project / Output:** Hello Python Profile Card
@@ -73,7 +73,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 002 — Practice
+### Day 02 — Practice
 
 **Topic:** Variables, input, string concatenation  
 **Project / Output:** Band or Brand Name Generator
@@ -86,7 +86,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 003 — Practice
+### Day 03 — Practice
 
 **Topic:** Data types, type conversion, f-strings  
 **Project / Output:** Tip Calculator
@@ -99,7 +99,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 004 — Practice
+### Day 04 — Practice
 
 **Topic:** Math operators, rounding, BMI logic  
 **Project / Output:** BMI Interpretation Calculator
@@ -112,7 +112,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 005 — Practice
+### Day 05 — Practice
 
 **Topic:** If/else and comparison operators  
 **Project / Output:** Age-Based Ticket Price App
@@ -125,7 +125,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 006 — Weekly Exam
+### Day 06 — Weekly Exam
 
 **Topic:** Variables, data types, math, conditions  
 **Project / Output:** Build a bill, tip, and BMI combined CLI app without notes
@@ -138,7 +138,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 007 — Day Off
+### Day 07 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -149,7 +149,7 @@ TODO: Optional light review only
 TODO: Do not start a new topic today
 ```
 
-### Day 008 — Practice
+### Day 08 — Practice
 
 **Topic:** Nested if, elif, logical operators  
 **Project / Output:** Treasure Island Text Game
@@ -162,7 +162,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 009 — Practice
+### Day 09 — Practice
 
 **Topic:** Random module  
 **Project / Output:** Coin Toss and Dice Simulator
@@ -175,7 +175,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 010 — Practice
+### Day 10 — Practice
 
 **Topic:** Lists, indexing, append  
 **Project / Output:** Who Pays the Bill App
@@ -188,7 +188,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 011 — Practice
+### Day 11 — Practice
 
 **Topic:** Nested lists and list operations  
 **Project / Output:** Shopping Cart CLI
@@ -201,7 +201,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 012 — Practice
+### Day 12 — Practice
 
 **Topic:** For loop, range, accumulator  
 **Project / Output:** Password Generator V1
@@ -214,7 +214,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 013 — Weekly Exam
+### Day 13 — Weekly Exam
 
 **Topic:** Random, lists, loops  
 **Project / Output:** Build a password generator and shopping cart summary
@@ -227,7 +227,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 014 — Day Off
+### Day 14 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -245,7 +245,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 015 — Practice
+### Day 15 — Practice
 
 **Topic:** While loop, break, continue  
 **Project / Output:** Number Guessing Game
@@ -258,7 +258,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 016 — Practice
+### Day 16 — Practice
 
 **Topic:** Functions, parameters, return values  
 **Project / Output:** Calculator Functions
@@ -271,7 +271,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 017 — Practice
+### Day 17 — Practice
 
 **Topic:** Scope, constants, clean naming  
 **Project / Output:** Caesar Cipher V1
@@ -284,7 +284,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 018 — Practice
+### Day 18 — Practice
 
 **Topic:** String methods and slicing  
 **Project / Output:** Email Username and Domain Extractor
@@ -297,7 +297,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 019 — Practice
+### Day 19 — Practice
 
 **Topic:** List methods, sorting, min, max  
 **Project / Output:** Student Score Analyzer
@@ -310,7 +310,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 020 — Weekly Exam
+### Day 20 — Weekly Exam
 
 **Topic:** Functions, strings, lists  
 **Project / Output:** Build Caesar Cipher and Score Analyzer
@@ -323,7 +323,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 021 — Day Off
+### Day 21 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -334,7 +334,7 @@ TODO: Optional light review only
 TODO: Do not start a new topic today
 ```
 
-### Day 022 — Practice
+### Day 22 — Practice
 
 **Topic:** Dictionary basics  
 **Project / Output:** Contact Book V1
@@ -347,7 +347,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 023 — Practice
+### Day 23 — Practice
 
 **Topic:** Nested dictionaries and lists  
 **Project / Output:** Student Result Management CLI
@@ -360,7 +360,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 024 — Practice
+### Day 24 — Practice
 
 **Topic:** Functions with dictionary data  
 **Project / Output:** Auction or Bidding App
@@ -373,7 +373,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 025 — Practice
+### Day 25 — Practice
 
 **Topic:** Debugging strategy and print debugging  
 **Project / Output:** Bug-Fix Challenge Pack
@@ -386,7 +386,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 026 — Practice
+### Day 26 — Practice
 
 **Topic:** Imports, modules, pip introduction  
 **Project / Output:** Random Quote Generator
@@ -399,7 +399,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 027 — Weekly Exam
+### Day 27 — Weekly Exam
 
 **Topic:** Dictionaries, modules, debugging  
 **Project / Output:** Build a contact book with search, update, and delete
@@ -412,7 +412,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 028 — Day Off
+### Day 28 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -430,7 +430,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 029 — Practice
+### Day 29 — Practice
 
 **Topic:** Project structure, main.py, folders  
 **Project / Output:** Mini Toolbox CLI
@@ -443,7 +443,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 030 — Practice
+### Day 30 — Practice
 
 **Topic:** File read/write with open()  
 **Project / Output:** Notes App Using Text File
@@ -456,7 +456,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 031 — Practice
+### Day 31 — Practice
 
 **Topic:** Relative and absolute paths  
 **Project / Output:** File Organizer Dry Run
@@ -469,7 +469,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 032 — Practice
+### Day 32 — Practice
 
 **Topic:** CSV basics with csv module  
 **Project / Output:** Expense Tracker CSV
@@ -482,7 +482,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 033 — Practice
+### Day 33 — Practice
 
 **Topic:** JSON read/write/update  
 **Project / Output:** Password Vault JSON V1
@@ -495,7 +495,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 034 — Weekly Exam
+### Day 34 — Weekly Exam
 
 **Topic:** File handling, CSV, JSON  
 **Project / Output:** Build an expense tracker that saves and loads data
@@ -508,7 +508,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 035 — Day Off
+### Day 35 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -519,7 +519,7 @@ TODO: Optional light review only
 TODO: Do not start a new topic today
 ```
 
-### Day 036 — Practice
+### Day 36 — Practice
 
 **Topic:** Exception handling: try/except/else/finally  
 **Project / Output:** Safe Calculator with Error Handling
@@ -532,7 +532,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 037 — Practice
+### Day 37 — Practice
 
 **Topic:** Custom errors and validation  
 **Project / Output:** Form Validator CLI
@@ -545,7 +545,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 038 — Practice
+### Day 38 — Practice
 
 **Topic:** List comprehension  
 **Project / Output:** Number Filter Tool
@@ -558,7 +558,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 039 — Practice
+### Day 39 — Practice
 
 **Topic:** Dictionary comprehension  
 **Project / Output:** Word Frequency Counter
@@ -571,7 +571,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 040 — Practice
+### Day 40 — Practice
 
 **Topic:** Date and time module  
 **Project / Output:** Birthday Reminder CLI
@@ -584,7 +584,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 041 — Weekly Exam
+### Day 41 — Weekly Exam
 
 **Topic:** Exceptions, comprehensions, datetime  
 **Project / Output:** Build a robust notes or reminder CLI with validation
@@ -597,7 +597,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 042 — Day Off
+### Day 42 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -615,7 +615,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 043 — Practice
+### Day 43 — Practice
 
 **Topic:** OOP: classes and objects  
 **Project / Output:** Coffee Machine OOP V1
@@ -628,7 +628,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 044 — Practice
+### Day 44 — Practice
 
 **Topic:** __init__, attributes, methods  
 **Project / Output:** Bank Account Simulator
@@ -641,7 +641,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 045 — Practice
+### Day 45 — Practice
 
 **Topic:** Class relationships and composition  
 **Project / Output:** Quiz App CLI
@@ -654,7 +654,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 046 — Practice
+### Day 46 — Practice
 
 **Topic:** Inheritance basics  
 **Project / Output:** Employee and Manager Payroll Model
@@ -667,7 +667,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 047 — Practice
+### Day 47 — Practice
 
 **Topic:** Dunder methods, __repr__, __str__  
 **Project / Output:** Product Cart Model
@@ -680,7 +680,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 048 — Weekly Exam
+### Day 48 — Weekly Exam
 
 **Topic:** OOP fundamentals  
 **Project / Output:** Build an OOP quiz or coffee machine app from scratch
@@ -693,7 +693,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 049 — Day Off
+### Day 49 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -711,7 +711,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 050 — Practice
+### Day 50 — Practice
 
 **Topic:** Virtual environment, pip, requirements.txt  
 **Project / Output:** Clean Project Starter Template
@@ -724,7 +724,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 051 — Practice
+### Day 51 — Practice
 
 **Topic:** requests, GET, status codes, JSON  
 **Project / Output:** Weather Checker CLI
@@ -737,7 +737,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 052 — Practice
+### Day 52 — Practice
 
 **Topic:** API parameters and query strings  
 **Project / Output:** Country Info Finder
@@ -750,7 +750,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 053 — Practice
+### Day 53 — Practice
 
 **Topic:** API keys, .env, secrets  
 **Project / Output:** Currency Converter with API
@@ -763,7 +763,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 054 — Practice
+### Day 54 — Practice
 
 **Topic:** POST, PUT, DELETE concepts  
 **Project / Output:** Habit Tracker API Client
@@ -776,7 +776,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 055 — Weekly Exam
+### Day 55 — Weekly Exam
 
 **Topic:** APIs and environment variables  
 **Project / Output:** Build a weather or currency app using API safely
@@ -789,7 +789,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 056 — Day Off
+### Day 56 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -807,7 +807,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 057 — Practice
+### Day 57 — Practice
 
 **Topic:** Email sending basics and SMTP concept  
 **Project / Output:** Birthday Email Draft Generator
@@ -820,7 +820,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 058 — Practice
+### Day 58 — Practice
 
 **Topic:** Web scraping with BeautifulSoup  
 **Project / Output:** News Headline Scraper
@@ -833,7 +833,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 059 — Practice
+### Day 59 — Practice
 
 **Topic:** Parsing tables and lists from HTML  
 **Project / Output:** Job Post Scraper Demo
@@ -846,7 +846,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 060 — Practice
+### Day 60 — Practice
 
 **Topic:** Selenium and browser automation basics  
 **Project / Output:** Auto Form Filler Demo
@@ -859,7 +859,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 061 — Practice
+### Day 61 — Practice
 
 **Topic:** Automation safety and rate limits  
 **Project / Output:** File Download Organizer
@@ -872,7 +872,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 062 — Weekly Exam
+### Day 62 — Weekly Exam
 
 **Topic:** Scraping and automation  
 **Project / Output:** Scrape a page and save clean results to CSV
@@ -885,7 +885,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 063 — Day Off
+### Day 63 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -903,7 +903,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 064 — Practice
+### Day 64 — Practice
 
 **Topic:** Tkinter window, label, button, entry  
 **Project / Output:** Mile to Kilometer Converter GUI
@@ -916,7 +916,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 065 — Practice
+### Day 65 — Practice
 
 **Topic:** Tkinter layout: grid and pack  
 **Project / Output:** Simple Calculator GUI
@@ -929,7 +929,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 066 — Practice
+### Day 66 — Practice
 
 **Topic:** Tkinter events and state  
 **Project / Output:** Pomodoro Timer GUI
@@ -942,7 +942,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 067 — Practice
+### Day 67 — Practice
 
 **Topic:** Tkinter with JSON  
 **Project / Output:** Password Manager GUI V1
@@ -955,7 +955,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 068 — Practice
+### Day 68 — Practice
 
 **Topic:** GUI polish, validation, messagebox  
 **Project / Output:** Flashcard App GUI
@@ -968,7 +968,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 069 — Weekly Exam
+### Day 69 — Weekly Exam
 
 **Topic:** Tkinter GUI  
 **Project / Output:** Build a password manager GUI with validation
@@ -981,7 +981,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 070 — Day Off
+### Day 70 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -999,7 +999,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 071 — Practice
+### Day 71 — Practice
 
 **Topic:** SQL basics with SQLite  
 **Project / Output:** Bookshelf Database CLI
@@ -1012,7 +1012,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 072 — Practice
+### Day 72 — Practice
 
 **Topic:** CRUD SQL operations  
 **Project / Output:** Employee CRUD CLI
@@ -1025,7 +1025,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 073 — Practice
+### Day 73 — Practice
 
 **Topic:** SQLAlchemy ORM basics  
 **Project / Output:** Movie Ranking App
@@ -1038,7 +1038,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 074 — Practice
+### Day 74 — Practice
 
 **Topic:** Flask hello world and routing  
 **Project / Output:** Mini Portfolio Flask Site
@@ -1051,7 +1051,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 075 — Practice
+### Day 75 — Practice
 
 **Topic:** Templates and Jinja  
 **Project / Output:** Dynamic Blog Pages
@@ -1064,7 +1064,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 076 — Weekly Exam
+### Day 76 — Weekly Exam
 
 **Topic:** SQLite, Flask, Jinja  
 **Project / Output:** Build a CRUD mini web app
@@ -1077,7 +1077,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 077 — Day Off
+### Day 77 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -1095,7 +1095,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 078 — Practice
+### Day 78 — Practice
 
 **Topic:** Flask forms and POST requests  
 **Project / Output:** Contact Form App
@@ -1108,7 +1108,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 079 — Practice
+### Day 79 — Practice
 
 **Topic:** Flask with SQLite CRUD  
 **Project / Output:** Cafe Directory App
@@ -1121,7 +1121,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 080 — Practice
+### Day 80 — Practice
 
 **Topic:** REST API design  
 **Project / Output:** Cafe REST API V1
@@ -1134,7 +1134,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 081 — Practice
+### Day 81 — Practice
 
 **Topic:** Postman and API testing basics  
 **Project / Output:** Test Your REST Endpoints
@@ -1147,7 +1147,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 082 — Practice
+### Day 82 — Practice
 
 **Topic:** Authentication concept and password hashing  
 **Project / Output:** Register/Login Prototype
@@ -1160,7 +1160,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 083 — Weekly Exam
+### Day 83 — Weekly Exam
 
 **Topic:** REST API and authentication basics  
 **Project / Output:** Build a REST API with secure login prototype
@@ -1173,7 +1173,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 084 — Day Off
+### Day 84 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -1191,7 +1191,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 085 — Practice
+### Day 85 — Practice
 
 **Topic:** Git and GitHub basics  
 **Project / Output:** Push 5 Previous Projects to GitHub
@@ -1204,7 +1204,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 086 — Practice
+### Day 86 — Practice
 
 **Topic:** Python testing with pytest basics  
 **Project / Output:** Test Calculator and Validator
@@ -1217,7 +1217,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 087 — Practice
+### Day 87 — Practice
 
 **Topic:** Logging and configuration  
 **Project / Output:** Production-Ready CLI Template
@@ -1230,7 +1230,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 088 — Practice
+### Day 88 — Practice
 
 **Topic:** Deployment concept, requirements.txt, environment variables  
 **Project / Output:** Deploy a Simple Flask App
@@ -1243,7 +1243,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 089 — Practice
+### Day 89 — Practice
 
 **Topic:** Pandas basics, DataFrame, CSV  
 **Project / Output:** Sales CSV Analyzer
@@ -1256,7 +1256,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 090 — Weekly Exam
+### Day 90 — Weekly Exam
 
 **Topic:** Git, testing, deployment, pandas  
 **Project / Output:** Publish a tested Flask app and analyze a CSV
@@ -1269,7 +1269,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 091 — Day Off
+### Day 91 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -1280,7 +1280,7 @@ TODO: Optional light review only
 TODO: Do not start a new topic today
 ```
 
-### Day 092 — Practice
+### Day 92 — Practice
 
 **Topic:** Data cleaning with pandas  
 **Project / Output:** Clean Messy Employee Data
@@ -1293,7 +1293,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 093 — Practice
+### Day 93 — Practice
 
 **Topic:** Matplotlib basics  
 **Project / Output:** Expense Chart Generator
@@ -1306,7 +1306,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 094 — Practice
+### Day 94 — Practice
 
 **Topic:** NumPy basics  
 **Project / Output:** Simple Numeric Analytics
@@ -1319,7 +1319,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 095 — Practice
+### Day 95 — Practice
 
 **Topic:** Data analysis mini case study  
 **Project / Output:** Business KPI Dashboard Notebook
@@ -1332,7 +1332,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 096 — Practice
+### Day 96 — Practice
 
 **Topic:** Portfolio revision and refactoring  
 **Project / Output:** Improve an earlier project with better code and README
@@ -1345,7 +1345,7 @@ TODO: Update README.md
 TODO: Commit and push to GitHub
 ```
 
-### Day 097 — Weekly Exam
+### Day 97 — Weekly Exam
 
 **Topic:** Data analysis and automation  
 **Project / Output:** Build one automation/data project and present the result
@@ -1358,7 +1358,7 @@ TODO: Write what went wrong and how you fixed it
 TODO: Score yourself using the weekly exam system
 ```
 
-### Day 098 — Day Off
+### Day 98 — Day Off
 
 **Topic:** Rest and optional light review  
 **Project / Output:** No coding required
@@ -1376,7 +1376,7 @@ TODO: Do not start a new topic today
 ! =========================================================
 ```
 
-### Day 099 — Practice
+### Day 99 — Practice
 
 **Topic:** Capstone build day 1  
 **Project / Output:** ERP-Style Task and Employee Tracker
@@ -1440,11 +1440,26 @@ TODO: Commit and push to GitHub
 python-100-days/
 ├── README.md
 ├── week-01/
-│   ├── day-001-hello-python-profile-card/
-│   ├── day-002-band-name-generator/
-│   └── day-003-tip-calculator/
+│   ├── day-01/
+│   ├── day-02/
+│   ├── day-03/
+│   ├── day-04/
+│   ├── day-05/
+│   └── exam-day/
 ├── week-02/
+│   ├── day-01/
+│   ├── day-02/
+│   ├── day-03/
+│   ├── day-04/
+│   ├── day-05/
+│   └── exam-day/
 ├── week-03/
+│   ├── day-01/
+│   ├── day-02/
+│   ├── day-03/
+│   ├── day-04/
+│   ├── day-05/
+│   └── exam-day/
 └── capstone/
     └── erp-style-task-employee-tracker/
 ```
@@ -1454,7 +1469,7 @@ python-100-days/
 ## Daily README Template
 
 ````md
-# Day 001 - Project Name
+# Day 01 - Project Name
 
 ## What I Learned
 
@@ -1499,3 +1514,4 @@ Paste terminal output or screenshot link here.
 **Small daily progress for 100 days can change your entire skill level.**
 
 </div>
+
