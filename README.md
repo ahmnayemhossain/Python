@@ -16,7 +16,7 @@
 
 **For:** Serious Learner  
 **Author:** A. H. M Nayem Hossain  
-**Email:** naym@softnan.com
+**Email:** nayem@softnan.com
 
 ---
 
